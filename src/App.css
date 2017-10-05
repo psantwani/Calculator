@@ -29,7 +29,7 @@
 
 #calculator {
 	width: 292px;
-	height: 420px;
+	height: 367px;
 	margin: 0 auto;
 	margin-top: 100px;
 	-moz-box-shadow: 0 0 8px #000;
@@ -41,12 +41,13 @@
 #txtScreen {
 	float: left;
 	width: 292px;
-	height: 100px;
-	font-size: xx-large;
+	height: 50px;
+	font-size: 40px;
 	text-align: right;
 	border:none;
 	border-top: 10px solid #1BE1B0;
 	text-shadow: 1px 2px gray;
+	background-color: white;
 }
 
 .numericPad {
